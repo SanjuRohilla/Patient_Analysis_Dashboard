@@ -171,7 +171,7 @@ This project was developed as part of a portfolio demonstrating end-to-end data 
 
 **GitHub:** [SanjuRohilla](https://github.com/SanjuRohilla)
 
-**Email:** sanjurohilla2022@gmail.com
+**Email:** sanjurohillla2022@gmail.com
 
 ---
 
