@@ -1,4 +1,4 @@
-# Patient Analysis Dashboard | Healthcare Operations & Revenue Intelligence
+# Hospital Patient Analysis Dashboard | Healthcare Operations & Revenue Intelligence
 **Power BI · Power Query · DAX**
 
 ---
